@@ -5,7 +5,7 @@ function addUser($conn, $username, $password) // accessing database (parameter w
     $stmt = $conn->prepare($sql);
     $stmt->execute([$username]);
 
-    if ($stmt->rowCount() == 0) { //true if there is no existing same username
+    if ($stmt->rowCount() == 0) { //no (existing same username), condition is true then proceed {equals to no one or false}
         $sql = "INSERT INTO users (username,password) VALUES (?,?)";
         $stmt = $conn->prepare($sql);
         return $stmt->execute([$username, $password]); //insert new user if return is true
