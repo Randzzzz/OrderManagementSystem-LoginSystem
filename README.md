@@ -27,7 +27,7 @@
   ![image](https://github.com/Randzzzz/OrderManagementSystem-LoginSystem/assets/104549331/370ec215-9caf-4c43-93cc-e86cd742da0d)<br />
 - Go to your code, edit your dbname to establish connection<br />
   ![image](https://github.com/Randzzzz/OrderManagementSystem-LoginSystem/assets/104549331/75a5ca27-1673-46b3-97ad-7db4c248ad8f)<br />
-- Then your ready to go!
+- Then you are ready to go!
 
 
 
