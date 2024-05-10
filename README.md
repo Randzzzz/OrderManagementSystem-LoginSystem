@@ -10,10 +10,10 @@
 - Now, you will see the table with 3 columns (id, username, password)<br />
 
 ## Build with
-![image]({(https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)})<br />
-![image]({(https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)})<br />
-![image]({(https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)})<br />
-![image]({(https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white)})<br />
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)<br />
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br />
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br />
+![image](https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white)<br />
 
 ## How to add database?
 - open Xampp<br />
