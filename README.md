@@ -8,6 +8,8 @@
 - Click "users"<br />
   ![image](https://github.com/Randzzzz/OrderManagementSystem-LoginSystem/assets/104549331/71367a1b-1f65-4be6-8e87-be5c2052bfdc)<br />
 - Now, you will see the table with 3 columns (id, username, password)<br />
+![image](https://github.com/Randzzzz/OrderManagementSystem-LoginSystem/assets/104549331/19a8766a-8e5a-45b9-baa5-baf7a104f862)
+
 
 ## Build with
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br />
